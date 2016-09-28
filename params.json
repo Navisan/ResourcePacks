@@ -1,0 +1,6 @@
+{
+  "name": "Fr33style-resourcepacks",
+  "tagline": "Resourcepacks for https://www.spigotmc.org/resources/counterstrike-cs-go-minigame.16641/",
+  "body": "# Fr33styler's Resourcepack Repository\r\nThis is where you can find downloads for the Minecraft resourcepacks for the following plugins\r\n\r\nTheLab: https://www.spigotmc.org/resources/thelab-minigame.26665/\r\n\r\nCSGO (Counter Strike: Global Offensive): https://www.spigotmc.org/resources/counterstrike-cs-go-minigame.16641/\r\n\r\n\r\n# Prespective links\r\n\r\nUse those links in your server.properties if you do not want to customize the resourcepack.\r\n\r\nTheLab: Taken down due to Copyright notice from HiveMC.\r\n\r\nCSGO 1.7.x - 1.8.x: https://raw.githubusercontent.com/AsaPlaysMC/Fr33style-Resourcepacks/master/CounterStrike1.7-1.8.zip\r\n\r\nCSGO 1.9.x - 1.10.x: https://raw.githubusercontent.com/AsaPlaysMC/Fr33style-Resourcepacks/master/CounterStrike1.9.zip\r\n\r\n-----------------------------\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
